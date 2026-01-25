@@ -10,3 +10,8 @@ Overall, this helped me understand how formatting, labeling, and scale control t
 
 ![image alt](https://github.com/YorgoHomsy/Excel-for-Data-Analytics/blob/eb51dadcd7a5833eafef15ea7f49a3cc2eb82f01/3-Charts/2-Charts-Advanced/Chart%20Advanced.png
 )
+
+--
+
+
+![image alt](https://github.com/YorgoHomsy/Excel-for-Data-Analytics/blob/b0cd911004c54cd033b7047974beb5fbfb75ef94/3-Charts/2-Charts-Advanced/Chart%20map.png)
