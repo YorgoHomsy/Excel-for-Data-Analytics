@@ -22,6 +22,10 @@ Filtering to see only the UK options
 
 ![image alt](https://github.com/YorgoHomsy/Excel-for-Data-Analytics/blob/1202769cc50433c609bb6ca9992640fed4a332da/7-Power-Query/2-PowerQuery-Editor/editor2.png
 )
+
+Modfying the query form the editor then seeing the results using pivot table
+-
+
 ![image alt](https://github.com/YorgoHomsy/Excel-for-Data-Analytics/blob/1202769cc50433c609bb6ca9992640fed4a332da/7-Power-Query/2-PowerQuery-Editor/result.png
 )
 
